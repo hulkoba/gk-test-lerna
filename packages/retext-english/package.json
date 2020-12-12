@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "gk-test-a": "7.1.6",
-    "parse-english": "4.0.0",
+    "parse-english": "4.2.0",
     "unherit": "1.0.4"
   },
   "devDependencies": {
