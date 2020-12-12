@@ -25,6 +25,6 @@
   ],
   "dependencies": {
     "neighbourhoodie-test-package": "22.0.0",
-    "nlcst-to-string": "2.0.0"
+    "nlcst-to-string": "2.0.4"
   }
 }
