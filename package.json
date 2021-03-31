@@ -24,7 +24,7 @@
     "xo": "0.21.1"
   },
   "dependencies": {
-    "neighbourhoodie-test-package": "22.0.0",
+    "neighbourhoodie-test-package": "67.0.0",
     "gk-test-c": "7.1.6"
   },
   "scripts": {
